@@ -1,10 +1,3 @@
-/*
-E/17/207
-MARASINGHE MAPG
-CO222 PROJECT 1
-e17207@eng.pdn.ac.lk
-*/
-
 //preprossesor directives.
 #include <stdio.h>
 #include <string.h>
